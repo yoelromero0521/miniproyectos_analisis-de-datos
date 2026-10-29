@@ -19,9 +19,3 @@ Bienvenido a mi repositorio de proyectos analíticos y optimización de flujos d
 * **Automatización y Flujos:** Power Automate, VBA (Visual Basic for Applications).
 * **Análisis y Modelado de Datos:** Microsoft Excel (Fórmulas complejas, modelos dinámicos, macros).
 * **Business Intelligence:** Power BI (Dashboards interactivos y modelado DAX).
-
----
-
-## 📬 Contacto
-* 💼 **LinkedIn:** [Añade aquí el enlace a tu perfil de LinkedIn]
-* 📄 **CV:** [Disponible en el encabezado o bajo solicitud]

@@ -1,0 +1,9 @@
+TripulacionID,Comandante,NombreEquipo,BaseOperativa,FlotasHabilitadas,NumMiembros
+1,Capt. Carlos Mendoza,Equipo Alpha,Base El Salvador (SAL),A320 Family,6
+2,Capt. Roberto Gómez,Equipo Bravo,Base El Salvador (SAL),A320 Family,6
+3,Capt. Sofía Alvarado,Equipo Charlie,Base El Salvador (SAL),A320/A321neo,6
+4,Capt. Fernando Torres,Equipo Delta,Base Miami (MIA),A320 Family,6
+5,Capt. Alejandro Castillo,Equipo Echo,Base México (MEX),Boeing 737,5
+6,Capt. Gabriel Ramos,Equipo Foxtrot,Base Bogotá (BOG),A320/A321neo,6
+7,Capt. Lucía Hernández,Equipo Golf,Base El Salvador (SAL),Boeing 737 MAX,5
+8,Capt. Ricardo Morales,Equipo Hotel,Base Panamá (PTY),A320 Family,6

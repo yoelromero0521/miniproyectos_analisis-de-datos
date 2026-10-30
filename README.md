@@ -11,7 +11,7 @@ Bienvenido a mi repositorio central de proyectos de análisis de datos, intelige
 | **01. Control de Expedientes** | Sistema para la gestión, seguimiento y trazabilidad de expedientes documentales con alertas de vencimiento. | Excel, VBA | [📁 Explorar Proyecto](./01-control-expedientes-styba/) |
 | **02. Fábrica de Reportes WMS 3PL** | Dashboard logístico interactivo y motor de generación masiva y automática de reportes por cliente. | Excel, VBA | [📁 Explorar Proyecto](./02-automatizacion-reporte-clientes-styba/) |
 | **03. Sistema de Ventas & PnL** | Captura móvil de transacciones en la nube y actualización automática del Estado de Resultados con segregación de retiros. | Power Automate, MS Forms, Excel | [📁 Explorar Proyecto](./03-sistema-ventas-power-automate/) |
-| **04. Dashboard Aerolínea (BI)** | Tablero de control financiero y operativo con arquitectura de Modelo Estrella (*Star Schema*) para evaluar flota y rentabilidad. | Power BI, DAX, Power Query | [📁 Explorar Proyecto](./04-dashboard-operaciones-aerolinea/) |
+| **04. Dashboard Aerolínea (BI)** | Tablero de control financiero y operativo con arquitectura de Modelo Estrella (*Star Schema*) para evaluar flota y rentabilidad. | Power BI, DAX, Power Query | [📁 Explorar Proyecto](./04%20-%20registro-aeronautico/) |
 
 ---
 

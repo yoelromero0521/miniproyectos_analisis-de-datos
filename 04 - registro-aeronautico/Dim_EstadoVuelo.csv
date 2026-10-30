@@ -1,5 +1,0 @@
-EstadoVueloID,NombreEstado,CategoriaEstado,Descripcion
-1,A Tiempo,Operativo,Vuelo completado dentro de los márgenes programados
-2,Retrasado,Operativo con Desviación,Vuelo con demoras superiores a 15 minutos respecto al STD/STA
-3,Cancelado,No Operado,"Vuelo suspendido antes de la salida por razones técnicas, meteorológicas o comerciales"
-4,Desviado,Incidencia de Ruta,Vuelo que aterrizó en un aeródromo alterno por emergencia o condiciones meteorológicas
